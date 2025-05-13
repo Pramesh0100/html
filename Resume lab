@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>My Resume</title>
+
+</head>
+
+<body>
+
+<h1 style="color: green; text-align: center;">My Resume</h1>
+
+<h2 style="color: blue;">Personal Information</h2>
+
+<p><b>Name:</b> John Doe</p>
+
+<p><b>Email:</b>
+
+<a href="mailto:johndoe@example.com">johndoe@example.com</
+
+a></p>
+
+<p><b>Phone:</b> <a href="tel:+1234567890">+1
+
+234 567 890</a></p>
+
+<p><b>LinkedIn:</b>
+
+<a href=https://www.linkedin.com/in/johndoe
+
+target="_blank">linkedin.com/in/johndoe</a></p>
+
+<p><b>GitHub:</b>
+
+<a href=https://github.com/johndoe
+
+target="_blank">github.com/johndoe</a></p>
+
+<h2 style="color: blue;">Objective</h2>
+
+<p>
+
+To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills while contributing to the success of the company.
+</p>
+
+<h2 style="color: green;">Education</h2>
+
+<ul>
+
+<li><b>Bachelor of Science in Computer Science</b> - XYZ University (2018-2022)</li>
+
+<li><b>High School Diploma</b> ABC High School (2016-2018)</li>
+
+</ul>
+
+<h2 style="color: red;">Skills</h2>
+
+<ul>
+
+<li>Programming Languages: Python, Java,
+
+C++</li>
+
+<li>Web Development: HTML, CSS,
+
+JavaScript</li>
+
+<li>Database Management: MySQL, MongoDB</li>
+
+<li>Version Control: Git, GitHub</li>
+
+<li>Soft Skills: Problem-solving,
+
+Teamwork, Communication</li>
+
+</ul>
+
+<h2 style="color: blue;">Work Experience</h2>
+
+<ul>
+
+<li><b>Software Developer Intern</b> Tech
+
+Solutions (Jan 2022 Dec 2022)
+
+<ul>
+
+<li>Developed and maintained web applications using JavaScript and Python.</li>
+
+<li>Collaborated with cross-functional teams to deliver high-quality software solutions.</li>
+
+<li>Improved application performance by optimizing database queries.</li>
+</ul>
+
+
+
+</11>
+
+<li><b>Freelance Web Developer</b> (Jun
+
+2021 Dec 2021)
+
+<ul>
+
+<li>Designed and built responsive small businesses.</li> websites for
+
+<li>Enhanced user experiences by implementing interactive features.</li>
+
+<<li>Provided ongoing technical support and maintenance for clients.</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+<h2 style="color: green;">Projects</h2>
+
+<ul>
+
+<li><b>E-commerce Website: </b> Designed a fully functional e-commerce site with user authentication, product listings, and a shopping cart system.</li>
+
+<li><b>Library Management System:</b>
+
+Developed a desktop application for managing library operations, including book lending and returns.</li>
+
+<li><b>Portfolio Website: </b> Created a personal portfolio showcasing projects, skills, and contact information.</li>
+
+</ul>
+
+<h2 style="color: red;">Hobbies</h2>
+
+<ul>
+
+<li>Coding and experimenting with new technologies</li>
+
+<li>Reading books on personal development</li>
+<li>Playing chess</li>
+
+<li>Traveling and exploring new places</li>
+
+</ul>
+
+<h2 style="color: blue;">References</h2>
+
+<p>Available upon request</p>
+
+</body>
+
+</html
